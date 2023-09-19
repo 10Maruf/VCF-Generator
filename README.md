@@ -8,4 +8,5 @@ Input names, email addresses, and phone numbers.
 <br>Generate VCF files with contact information.
 <br>**NOTE: Please download the VCF Generator.exe file only.**
 <br>**Import/Install the .vcf file in your phone or windows.
-**
+**<br>
+**More features coming soon....**
