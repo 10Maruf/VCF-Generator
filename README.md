@@ -7,3 +7,4 @@ The VCF Generator is a simple Python tool that allows you to generate VCF (Virtu
 Input names, email addresses, and phone numbers.
 Generate VCF files with contact information.
 **NOTE: Please download the VCF Generator.exe file only.**
+Import/Install the .vcf file in your phone or windows.
